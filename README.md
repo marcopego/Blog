@@ -1,4 +1,4 @@
-# blog.ghost.org
+# blog.ghost.or
 
 The theme for our official [company blog](https://blog.ghost.org). This is fairly heavily modified version of the [Casper](https://github.com/tryghost/casper) theme, with a bunch of hard coded variables. It will **not** automatically work on any Ghost installation.
 
